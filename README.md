@@ -1,2 +1,2 @@
 # Space-Demo
-A simple demo to practice Unreal 
+A personal, simple demo to practice Unreal with. Created to learn the fundamentals of Unreal Engine after using Unity for many years. 
